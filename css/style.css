@@ -56,6 +56,10 @@ header a {
 
 /* ID selector (apply to one unique element per page) */
 
+#copyright {
+	font-size: 0.8em;
+}
+
 /* Descendent Selector */
 
 /* Psuedo Selector */
