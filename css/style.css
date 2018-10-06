@@ -49,6 +49,11 @@ header a {
 
 /* Class selector (applied to as many elements as you like) */
 
+.press_logo {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
 /* ID selector (apply to one unique element per page) */
 
 /* Descendent Selector */
