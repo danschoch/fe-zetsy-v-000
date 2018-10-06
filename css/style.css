@@ -77,6 +77,10 @@ header a:hover {
 
 /* Sections */
 
+header {
+	display: block;
+}
+
 section {
 	margin-bottom: 20px;
 }
