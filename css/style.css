@@ -21,11 +21,11 @@ body {
 
 h1 {
 	padding-bottom: 10px;
-    margin: 0 0 5px;
-    font-size: 5em;
-    font-weight: normal;
-    font-family: 'Baskerville', serif;
-    border-bottom: 1px solid #ccc;
+  margin: 0 0 5px;
+  font-size: 5em;
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
+  border-bottom: 1px solid #ccc;
 }
 
 /* Class selector (applied to as many elements as you like) */
@@ -41,3 +41,7 @@ h1 {
 /* Layout */
 
 /* Sections */
+
+section {
+	margin-bottom: 20px;
+}
