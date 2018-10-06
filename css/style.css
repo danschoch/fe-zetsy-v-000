@@ -47,6 +47,10 @@ header a {
 	text-decoration: none;
 }
 
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 /* Class selector (applied to as many elements as you like) */
 
 .press_logo {
