@@ -72,3 +72,8 @@ header img {
 section {
 	margin-bottom: 20px;
 }
+
+footer {
+ text-align: right;
+ background: #fff;
+}
