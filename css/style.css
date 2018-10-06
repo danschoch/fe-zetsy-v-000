@@ -28,6 +28,11 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
 /* Class selector (applied to as many elements as you like) */
 
 /* ID selector (apply to one unique element per page) */
