@@ -65,7 +65,7 @@ header a {
 /* Psuedo Selector */
 
 /* Media */
-header img {
+#title_img {
 	border: 5px rgb(152,173,166) solid;
 }
 
